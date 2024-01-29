@@ -3,8 +3,8 @@
 ![currencyconverter](https://github.com/SecondMikasa/Currency_Converter/assets/129872339/f08ace2f-8d4c-4065-84e4-fdd74159c190)
 
 Tried to create a Real Time Currency Converter react + vite app utilizing the different react hooks and react fibre \
-Implemented Tailiwind CSS to customize the website and make it responsive \
-Also implemented a custom react hook for the smooth working of the app \
+Implemented Tailiwind CSS to customize the user interface of website and make it responsive \
+Also implemented a custom react hook for the smooth working of the app 
 
 This app was created utilizing the default template provided which forces out a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
